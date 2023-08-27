@@ -1,15 +1,12 @@
-## About ME
----
+## About Me
 - Nice to meet you! I'm Juhyuk Han, a developer with a strong desire to contribute to society through Artificial Intelligence.
 
 ## Educations
----
 - M.S in Department of Software Convergence, Kyung Hee University, 2023.03 ~ Present.
 - B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 ~ 2023.02.
 
 
 ## Skills
----
 - Machine Learning & Deep Learning
 - Meta Learning
 - Natural Language Processing
