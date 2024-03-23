@@ -1,5 +1,6 @@
 ## About Me
 - Nice to meet you! I'm Juhyuk Han, a developer with a strong desire to contribute to society through Artificial Intelligence.
+- **Notion Profile Link** : https://believed-cupcake-1a3.notion.site/Profile-a8cd0ceb055244ed9963cee230ad7150?pvs=4
 
 ## Educations
 - M.S in Department of Software Convergence, Kyung Hee University, 2023.03 ~ Present.
