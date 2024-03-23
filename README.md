@@ -34,6 +34,7 @@
 - Received an Honorable Mention in the 2nd Shipbuilding/Maritime Industry Big Data/AI College Student Competition for Digital Innovation in the Shipbuilding/Maritime Industry, hosted by Hyundai Heavy Industries (현대 중공업). (2022.02.)
 - Ranked 3rd in the Software Convergence Dacon Data Analysis Competition hosted by a Software-Centric University (SW 중심 대학). (2022.06.)
 - Awarded Excellence Prize in the Main Round of the AI Competition hosted by Dacon and Software-Centric University (SW 중심 대학). (2022.11.)
+- Winning of the 2022 academic award (학술상) at KHU
 - Summa Cum Laude graduate student at Software Convergence, Kyung Hee University. (2023.02.)
 - Team AIMS (**Juhyuk Han**, Hye Jeong Jo, Tae Seong Kim) won the 2nd prize award (Winner of the Minister of Science and ICT Award, 과학기술정보통신부장관상 수상) at the 2023 ETRI Human Understanding Artificial Intelligence Paper Contest (휴먼이해 인공지능 논문경진대회). (2022.07.)
 
