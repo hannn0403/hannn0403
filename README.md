@@ -37,8 +37,11 @@
 </p>
 
 - Machine Learning & Deep Learning
+- Explainable AI (xAI)
 - Meta Learning
-- Natural Language Processing
+- Large Language Model
+- In-context Learning
+- Multimodal AI
 - Parameter Efficient Fine-tuning
 
 
