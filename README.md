@@ -30,6 +30,7 @@
   </br>
 </p>
 
+- Medical AI (Brain MRI, Chest X-Ray, EEG)
 - Machine Learning & Deep Learning
 - Explainable AI (xAI)
 - Meta Learning
