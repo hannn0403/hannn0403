@@ -48,12 +48,13 @@
 - Undergraduate Researcher at AIMS (Artificial Intelligence & Medical Science) Lab, Kyung Hee University, 2021.07 ~ 2023.02.
 
 ## 📚 Publications 
-- **Juhyuk Han**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "A patient-centered framework for chest X-ray report generation using self-reflective large language models", Computers in Biology and Medicine _(Under Review)_
+- **Juhyuk Han**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "A patient-centered framework for chest X-ray report generation using self-reflective large language models", Computers in Biology and Medicine, 2025._(Under Review)_
 - **Juhyuk Han**, Tae Seong Kim, Hye Jeong Jo, Won Hee Lee, "LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition", Proceedings of the Korea Computer Congress (KCC), 2023.
-- Sunghwan Moon, **juhyuk Han**, Won Hee Lee, "Federated Learning for Brain Age Prediction", Proceedings of the Korea Software Congress (KSC), 2021.
-- **Juhyuk Han**, Seo Yeong Kim, Junhyeok Lee, Won Hee Lee, "Brain Age Prediction: A Comparison between Machine Learning Models Using Brain Morphometric Data.", MDPI, Sensors, 2021
+- **Juhyuk Han**, Seo Yeong Kim, Junhyeok Lee, Won Hee Lee, "Brain Age Prediction: A Comparison between Machine Learning Models Using Brain Morphometric Data.", MDPI, Sensors, 2021.
 - **Juhyuk Han**, Junhyeok Lee, Won Hee Lee, "Investigating Individual Variability in Neuroimaging-Based Brain Age Estimation Using Interpretable Machine Learning",  Proceedings of the Korea Software Congress (KSC), 2022.
+- Sung Woo Joo, Junhyeok Lee, **Juhyuk Han**, Minjae Kim, Yeonwoo Kim, Howook Lee, Young Tak Jo, Jaewook Shin, Jungsun Lee, Won Hee Lee, “Disparities in accelerated brain aging in recent-onset and chronic schizophrenia", Psychological Medicine, 2025.
 - Junhyeok Lee, **Juhyuk Han**, Won Hee Lee, "Anomaly Detection in Brain MRI with Generative Adversarial Networks", Proceedings of the Korea Computer Congress (KCC), 2023.
+- Sunghwan Moon, **juhyuk Han**, Won Hee Lee, "Federated Learning for Brain Age Prediction", Proceedings of the Korea Software Congress (KSC), 2021.
 
 
 ## 📊 Projects
