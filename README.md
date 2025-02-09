@@ -43,7 +43,7 @@
 
 
 
-## Experiences
+## 👨‍🎓 Experiences
 - M.S. Student at AIMS (Artificial Intelligence in Medicine and Science) Lab, Kyung Hee University, 2023.02 ~ Present.
 - Undergraduate Researcher at AIMS (Artificial Intelligence & Medical Science) Lab, Kyung Hee University, 2021.07 ~ 2023.02.
 
