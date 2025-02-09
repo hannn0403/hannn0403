@@ -13,6 +13,34 @@
 - Natural Language Processing
 - Parameter Efficient Fine-tuning
 
+### ⚡Tools & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black" alt="git" />
+  <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=black" alt="docker" />
+  </br>
+  
+  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql" />
+  </br>
+  
+  <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  <img src="https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="scipy" />
+  <img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikitlearn" />
+  <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
+  <img src="https://img.shields.io/badge/lightning-%23792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="lightning" />
+  </br>  
+  
+  <img src="https://img.shields.io/badge/qt-%2341CD52?style=for-the-badge&logo=qt&logoColor=black" alt="qt" />
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
+  </br>
+</p>
+
 ## Experiences
 - M.S. Student at AIMS (Artificial Intelligence in Medicine and Science) Lab, Kyung Hee University, 2023.02 ~ Present.
 - Undergraduate Researcher at AIMS (Artificial Intelligence & Medical Science) Lab, Kyung Hee University, 2021.07 ~ 2023.02.
