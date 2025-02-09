@@ -53,7 +53,7 @@
 
 ## 📊 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=LMR-CL&theme=aura)](https://github.com/hannn0403/LMR-CL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=BrainAge_Prediction&theme=aura)](https://github.com/hannn0403/BrainAgePrediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=BrainAgePrediction&theme=aura)](https://github.com/hannn0403/BrainAgePrediction)
 
 
 ## Awards
