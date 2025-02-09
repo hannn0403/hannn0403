@@ -1,4 +1,4 @@
-## About Me
+## 👦 About Me
 - Nice to meet you! I'm Juhyuk Han, a developer with a strong desire to contribute to society through Artificial Intelligence.
 - **Notion Profile Link** : [https://believed-cupcake-1a3.notion.site/Profile-a8cd0ceb055244ed9963cee230ad7150?pvs=4](https://www.notion.so/e0c36c382b7949aeaf0f19cb023f5434?pvs=4)
 
@@ -8,10 +8,6 @@
 
 
 ## ⚡Tools & Skills
-- Machine Learning & Deep Learning
-- Meta Learning
-- Natural Language Processing
-- Parameter Efficient Fine-tuning
 
 <p align="left">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
@@ -39,6 +35,12 @@
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
   </br>
 </p>
+- Machine Learning & Deep Learning
+- Meta Learning
+- Natural Language Processing
+- Parameter Efficient Fine-tuning
+
+
 
 ## Experiences
 - M.S. Student at AIMS (Artificial Intelligence in Medicine and Science) Lab, Kyung Hee University, 2023.02 ~ Present.
