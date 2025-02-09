@@ -56,7 +56,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=BrainAgePrediction&theme=aura)](https://github.com/hannn0403/BrainAgePrediction)
 
 
-## Awards
+## 🏆: Awards
 - Winning of the first prize in the SW-Centered University (SW 중심 대학) hosted Software Festival for the implementation of 'User-friendly Music Composition Algorithm Based on EEG'. (2021 12.)
 - Received the Grand Prize in the [LINC+] 2021 2nd Semester Capstone Design Competition for the implementation of 'User-friendly Music Composition Algorithm Based on EEG'. (2021 12.)
 - Received an Honorable Mention in the 2nd Shipbuilding/Maritime Industry Big Data/AI College Student Competition for Digital Innovation in the Shipbuilding/Maritime Industry, hosted by Hyundai Heavy Industries (현대 중공업). (2022.02.)
