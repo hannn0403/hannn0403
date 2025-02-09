@@ -51,8 +51,9 @@
 - Junhyeok Lee, **Juhyuk Han**, Won Hee Lee, "Anomaly Detection in Brain MRI with Generative Adversarial Networks", Proceedings of the Korea Computer Congress (KCC), 2023.
 - **Juhyuk Han**, Tae Seong Kim, Hye Jeong Jo, Won Hee Lee, "LMR-CL: Learning Modality-Fused Representations with Contrastive Loss for Multimodal Emotion Recognition", Proceedings of the Korea Computer Congress (KCC), 2023.
 
-## Projects
-
+## 📊 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=LMR-CL&theme=aura)](https://github.com/hannn0403/LMR-CL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=BrainAge_Prediction&theme=aura)](https://github.com/hannn0403/BrainAgePrediction)
 
 
 ## Awards
