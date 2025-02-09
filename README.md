@@ -2,7 +2,7 @@
 - Nice to meet you! I'm Juhyuk Han, a developer with a strong desire to contribute to society through Artificial Intelligence.
 - **Notion Profile Link** : [https://believed-cupcake-1a3.notion.site/Profile-a8cd0ceb055244ed9963cee230ad7150?pvs=4](https://www.notion.so/e0c36c382b7949aeaf0f19cb023f5434?pvs=4)
 
-## Educations
+## :book: Educations
 - M.S in Department of Software Convergence, Kyung Hee University, 2023.03 ~ Present.
 - B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 ~ 2023.02.
 
