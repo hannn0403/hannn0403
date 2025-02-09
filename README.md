@@ -60,7 +60,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hannn0403&repo=BrainAgePrediction&theme=aura)](https://github.com/hannn0403/BrainAgePrediction)
 
 
-## 🏆: Awards
+## 🏆 Awards
 - Team AIMS (**Juhyuk Han**, Hye Jeong Jo, Tae Seong Kim) won the 2nd prize award (Winner of the Minister of Science and ICT Award, 과학기술정보통신부장관상 수상) at the 2023 ETRI Human Understanding Artificial Intelligence Paper Contest (휴먼이해 인공지능 논문경진대회). (2022.07.)
 - Winning of the 2022 academic award (학술상) at KHU
 - Summa Cum Laude graduate student at Software Convergence, Kyung Hee University. (2023.02.)
