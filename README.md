@@ -7,13 +7,12 @@
 - B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 ~ 2023.02.
 
 
-## Skills
+## ⚡Tools & Skills
 - Machine Learning & Deep Learning
 - Meta Learning
 - Natural Language Processing
 - Parameter Efficient Fine-tuning
 
-### ⚡Tools & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black" alt="git" />
