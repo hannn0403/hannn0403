@@ -1,6 +1,6 @@
 ## 👦 About Me
 - Nice to meet you! I'm Juhyuk Han, a developer with a strong desire to contribute to society through Artificial Intelligence.
-- **[Notion Profile Link](https://www.notion.so/e0c36c382b7949aeaf0f19cb023f5434?pvs=4)**
+- **[Notion Profile Link](https://believed-cupcake-1a3.notion.site/juhyukhan-portfolio?pvs=4)**
 - **[LinkedIn Profile Link](https://www.linkedin.com/in/juhyuk-han-84813328b/)**
 
 ## :book: Educations
